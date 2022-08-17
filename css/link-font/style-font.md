@@ -25,7 +25,7 @@ ___
 <link rel="stylesheet" href="https://iranset.github.io/css/icon-font.css" />
 ```
 ***
-#-[bootstrap-rtl.min](https://ib.bki.ir/ThemeFa/bootstrap/css/bootstrap-rtl.min.css)
+# - [bootstrap-rtl.min](https:)
 ```html
-<link rel="stylesheet" href="https://ib.bki.ir/ThemeFa/bootstrap/css/bootstrap-rtl.min.css" />
+<link rel="stylesheet" href="" />
 ```
