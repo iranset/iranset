@@ -13,9 +13,9 @@
 
 | نام |لینک |
 |:---:|:---:|
-|iranset.github.io |<img src="https://raw.githubusercontent.com/iranset/iranset.github.io/7e6174e2363a509781c9e5947fe3f694e2ea8eb0/svgs/solid/arrow-right-to-bracket.svg" width="16" height="16" /> https://github.com/iranset/iranset.github.io|
-|folders|<img src="https://raw.githubusercontent.com/iranset/iranset.github.io/7e6174e2363a509781c9e5947fe3f694e2ea8eb0/svgs/solid/arrow-right-to-bracket.svg" width="16" height="16" /> https://github.com/iranset/folders|
-|iranset|<img src="https://raw.githubusercontent.com/iranset/iranset.github.io/7e6174e2363a509781c9e5947fe3f694e2ea8eb0/svgs/solid/arrow-right-to-bracket.svg" width="16" height="16" /> https://github.com/iranset/iranset|
+|meta-ram.github.io |<img src="https://raw.githubusercontent.com/meta-ram/meta-ram.github.io/7e6174e2363a509781c9e5947fe3f694e2ea8eb0/svgs/solid/arrow-right-to-bracket.svg" width="16" height="16" /> https://github.com/meta-ram/meta-ram.github.io|
+|folders|<img src="https://raw.githubusercontent.com/meta-ram/meta-ram.github.io/7e6174e2363a509781c9e5947fe3f694e2ea8eb0/svgs/solid/arrow-right-to-bracket.svg" width="16" height="16" /> https://github.com/meta-ram/folders|
+|meta-ram|<img src="https://raw.githubusercontent.com/meta-ram/meta-ram.github.io/7e6174e2363a509781c9e5947fe3f694e2ea8eb0/svgs/solid/arrow-right-to-bracket.svg" width="16" height="16" /> https://github.com/meta-ram/meta-ram|
 
 ***
 
